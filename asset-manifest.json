@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tirage-runes/static/css/main.3bb767d5.css",
+    "main.js": "/tirage-runes/static/js/main.4271583b.js",
+    "static/js/453.e51cbc87.chunk.js": "/tirage-runes/static/js/453.e51cbc87.chunk.js",
+    "index.html": "/tirage-runes/index.html",
+    "main.3bb767d5.css.map": "/tirage-runes/static/css/main.3bb767d5.css.map",
+    "main.4271583b.js.map": "/tirage-runes/static/js/main.4271583b.js.map",
+    "453.e51cbc87.chunk.js.map": "/tirage-runes/static/js/453.e51cbc87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb767d5.css",
+    "static/js/main.4271583b.js"
+  ]
+}
